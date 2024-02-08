@@ -16,6 +16,7 @@ list_of_files=[
     f"src/components/model_trainer.py",
     f"src/pipeline/__init__.py",
     f"src/pipeline/prediction_pipeline.py",
+    f"src/pipeline/training_pipeline.py",
     f"src/utils/__init__.py",
     f"src/utils/commonutils.py",
     f"src/constants/__init__.py",
@@ -23,8 +24,11 @@ list_of_files=[
     f"src/logger.py",
     f"config/config.yaml",
     f"params.yaml",
+    f"notebook/experiment.ipynb",
     f"setup.py",
     f"dvc.yaml",
+    f"requirements.txt",
+    f"requirements_dev.txt",
 ]
 
 
